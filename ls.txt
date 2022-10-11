@@ -1,0 +1,2 @@
+ls
+ls is used for listing contents inside a directory
